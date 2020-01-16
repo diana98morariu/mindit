@@ -1,0 +1,8 @@
+{
+    "provide" : {
+        "ext-mongodb": "*"
+    },
+    "require": {
+      "ext-mongodb": "*"
+    }
+  }

@@ -1,0 +1,586 @@
+[
+    {
+        "_id":{ "$oid":"5dee6f913d358415d4a1f90a"},
+        "name":"Medieval History Quiz",
+        "createdAt":{
+            "$timestamp":{"t":1575907766,"i":1}
+        },
+        "difficulty":"very easy",
+        "userId":{"$oid":"5dee6fc33d358415d4a1f90b"},
+        "questions":[
+            [{"$oid":"5dee70973d358415d4a1f90e"},
+                "Which international event was started by Pope Urban II’s sermon at Clermont in 1095?",
+                "The first crusade",
+                "easy"
+            ],
+            [{"$oid":"5dee70b73d358415d4a1f90f"},
+                "Which 12th-century historian wrote the first detailed account of King Arthur?",
+                "Geoffrey of Monmouth",
+                "easy"
+            ],
+            [{"$oid":"5dee70c03d358415d4a1f910"},
+                "What proportion of the English population is estimated to have been killed by the Black Death in 1348-9?",
+                "One third",
+                "easy"
+            ],
+            [{"$oid":"5dee719b3d358415d4a1f911"},
+                "Which of the following is not a clause in Magna Carta?",
+                "All peasants must be given time off to attend church on Sundays",
+                "easy"
+            ]
+        ]
+    },
+    {
+        "_id":{"$oid":"5dee735133e69915d466684f"},
+        "name":"Ancient Rome Quiz",
+        "createdAt":{
+            "$timestamp":{"t":1575907766,"i":1}
+        },
+        "difficulty":"medium",
+        "userId":{"$oid":"5dee6fc33d358415d4a1f90b"},
+        "questions":[
+            [{"$oid":"5dee70973d35841544a1f90e"},
+                "Who was the father of Romulus and Remus?",
+                "Mars",
+                "easy"
+            ],
+            [{"$oid":"5dee70b73d35841264a1f90f"},
+                "Which was the first Roman road – and where did it run?",
+                "Via Appia",
+                "medium"
+            ],
+            [{"$oid":"5dee70c031568415d4a1f910"},
+                "Which enemy city did the Romans plough with salt?",
+                "None",
+                "medium"
+            ],
+            [{"$oid":"5dee719b3d345415d4a1f911"},
+                "Which of the following did not defeat Mithridates VI of Pontus?",
+                "Marius",
+                "easy"
+            ],
+            [{"$oid":"5dee72b031358415d4a1f912"},
+                "How many times was Rome sacked in antiquity?",
+                "Three or four",
+                "hard"
+            ]
+        ]
+    },
+    {
+        "_id":{"$oid":"5dee7c1d3d358415d4a1f915"},
+        "name":"Geography Quiz",
+        "createdAt":{
+            "$timestamp":{"t":1575910848,"i":1}
+        },
+        "difficulty":"medium",
+        "userId":{"$oid":"5dee7c4c3d358415d4a1f916"},
+        "questions":[
+            [{"$oid":"5dee7c5f3d358415d4a1f917"},
+                "Name the four ecological era's in order.",
+                "Cenozoic, mesozonic,paleozoic, precambrain.",
+                "hard"
+            ],
+            [{"$oid":"5dee7c883d358415d4a1f918"},
+                "This is the highest mountain in the world. It is 29,035 ft. high.",
+                "Mountain Everest",
+                "easy"
+            ],
+            [{"$oid":"5dee7cba3d358415d4a1f919"},
+                "Which of the following is the longest mountain range in the world?",
+                "Andes",
+                "medium"
+            ],
+            [{"$oid":"5dee7cde3d358415d4a1f91a"},
+                "This lake is the highest navigational lake in the world. It is in the Andes Mountains in South America.",
+                "Lake Titicaca",
+                "medium"
+            ],
+            [{"$oid":"5dee7d2d3d358415d4a1f91b"},
+                "What is the longest river in France?",
+                "Loire River",
+                "easy"
+            ],
+            [{"$oid":"5dee7d813d358415d4a1f91c"},
+                "This sea is actually a lake and is the world's largest",
+                "Caspian Sea",
+                "medium"
+            ]
+        ]
+    },
+    {
+        "_id":{"$oid":"5dee7e033d358415d4a1f91d"},
+        "name":"Science Quiz",
+        "createdAt":{
+            "$timestamp":{"t":1575911488,"i":1}
+        },
+        "difficulty":"very hard",
+        "userId":{"$oid":"5dee7e2d3d358415d4a1f91e"},
+        "questions":[
+            [{"$oid":"5dee7e483d358415d4a1f91f"},
+                "Why a man sitting in a moving bus suddenly moves forward when the bus suddenly stops?",
+                "Due to inertia",
+                "medium"
+            ],
+            [{"$oid":"5dee7e8d3d358415d4a1f921"},
+                "The person sitting in a moving car has...energy",
+                "Both kinetic and potential energy",
+                "hard"
+            ],
+            [{"$oid":"5dee7ecb3d358415d4a1f922"},
+                "Why in hitting the carpet with stick mud flies away?",
+                "Due to inertia",
+                "medium"
+            ],
+            [{"$oid":"5dee7ef03d358415d4a1f923"},
+                "Why is it challenging to prepare a supersaturated solution?",
+                "Because it cant be prepared at room temperature",
+                "hard"
+            ],
+            [{"$oid":"5dee7f3f3d358415d4a1f924"},
+                "What are Jacobson's organs?",
+                "Two pits present on palate on snake",
+                "hard"
+            ],
+            [{"$oid":"5dee7f7d3d358415d4a1f925"},
+                "Each rank of classification is called:",
+                "Texon",
+                "hard"
+            ]
+        ]
+    },
+    {
+        "_id":{"$oid":"5dee80ff3d358415d4a1f926"},
+        "name":"Hoot Quiz",
+        "createdAt":{
+            "$timestamp":{"t":1575912380,"i":1}
+        },
+        "difficulty":"hard",
+        "userId":{"$oid":"5dee81243d358415d4a1f927"},
+        "questions":[
+            [{"$oid":"5dee814d3d358415d4a1f928"},
+                "Dana Matherson was...",
+                "A big bully who rode Roy's bus to school",
+                "hard"
+            ],
+            [{"$oid":"5dee817c3d358415d4a1f929"},
+                "The strangest thing about the running boy was...",
+                "he wore no shoes",
+                "medium"
+            ],
+            [{"$oid":"5dee81b13d358415d4a1f92a"},
+                "Dana gave Roy the nickname...",
+                "Cowgirl",
+                "medium"
+            ],
+            [{"$oid":"5dee81e93d358415d4a1f92b"},
+                "Dana smelled like...",
+                "Cigarettes",
+                "easy"
+            ],
+            [{"$oid":"5dee821b3d358415d4a1f92c"},
+                "Officer Delinko tripped over...in the construction site.",
+                "Owl holes",
+                "medium"
+            ],
+            [{"$oid":"5dee82513d358415d4a1f92d"},
+                "How did Curly respond when Officer Delinko asked him what would happen to the owls?",
+                "Curly responded, \"What owls?\"",
+                "hard"
+            ],
+            [{"$oid":"5dee829e3d358415d4a1f92e"},
+                "Roy's father worked for the government, so...",
+                "They moved a lot",
+                "medium"
+            ],
+            [{"$oid":"5dee82df3d358415d4a1f92f"},
+                "Garret was able to...",
+                "Fart out the first line of the Pledge of Allegiance",
+                "hard"
+            ],
+            [{"$oid":"5dee83013d358415d4a1f930"},
+                "To get off the bus in a hurry, Roy had to...",
+                "Punch Dana",
+                "easy"
+            ],
+            [{"$oid":"5dee832f3d358415d4a1f931"},
+                "The chase ended when...",
+                "Roy was hit with a golf ball",
+                "hard"
+            ]
+        ]
+    },
+    {
+        "_id":{"$oid":"5def86455543af4698198834"},
+        "name":"Computer Quiz",
+        "createdAt":{
+            "$timestamp":{"t":1575978966,"i":1}
+        },
+        "difficulty":"medium",
+        "userId":{"$oid":"5def86825543af4698198835"},
+        "questions":[
+            [{"$oid":"5def86935543af4698198836"},
+                "The full form of IRQ is?",
+                "Interrupt Request",
+                "medium"
+            ],
+            [{"$oid":"5def86f65543af4698198838"},
+                "Cathode Ray Tube is found in?","Monitor",
+                "medium"
+            ],
+            [{"$oid":"5def87165543af4698198839"},
+                "Which term is related to memory?",
+                "RAM",
+                "easy"
+            ],
+            [{"$oid":"5def87445543af469819883a"},
+                "Unsolicited e-mails are termed as? ",
+                "Spam",
+                "easy"
+            ],
+            [{"$oid":"5def876b5543af469819883b"},
+                "BASIC, C and COBOL and Java are examples of which language? ",
+                "Low level language",
+                "hard"
+            ]
+        ]
+    },
+    {
+        "_id":{"$oid":"5def87da5543af469819883c"},
+        "name":"Art Quiz",
+        "createdAt":{
+            "$timestamp":{"t":1575979296,"i":1}
+        },
+        "difficulty":"medium",
+        "userId":{"$oid":"5def885b5543af469819883d"},
+        "questions":[
+            [{"$oid":"5def88675543af469819883e"},
+                "Who painted the Mona LIsa?",
+                "Leonardo Da Vinci",
+                "easy"
+            ],
+            [{"$oid":"5def88745543af469819883f"},
+                "What is the appropriate art term for color?",
+                "Hue",
+                "medium"
+            ],
+            [{"$oid":"5def88815543af4698198840"},
+                "What do you call a point with no ending?",
+                "Line",
+                "hard"
+            ],
+            [{"$oid":"5def888c5543af4698198841"},
+                "Which is a primary color?",
+                "Red",
+                "medium"
+            ],
+            [{"$oid":"5def88975543af4698198842"},
+                "What shape do we call a basketball ball?",
+                "Sphere",
+                "easy"
+            ]
+        ]
+    },
+    {
+        "_id":{"$oid":"5def89365543af4698198843"},
+        "name":"The priciples of design Quiz",
+        "createdAt":{
+            "$timestamp":{"t":1575979674,"i":1}
+        },
+        "difficulty":"hard",
+        "userId":{"$oid":"5def89745543af4698198845"},
+        "questions":[
+            [{"$oid":"5def89805543af4698198846"},
+                "What are the Principles of Design?",
+                "The rules that help arrange the ingredients or elements",
+                "hard"
+            ],
+            [{"$oid":"5def898a5543af4698198847"},
+                "What refers to a way of combining similar elements of art to create an uncomplicated look to an overall composition?"
+                ,"Harmony",
+                "medium"
+            ],
+            [{"$oid":"5def89945543af4698198848"},
+                "...is usually created when an artis repeats or alternates a specific element creating a feeling of movement.",
+                "Rhythm",
+                "hard"
+            ],
+            [{"$oid":"5def89a05543af4698198849"},
+                "Balance if the arrangment of visual elements to create an \"even\" or \"equal\" feeling.  What are they three types of Balance? Separate values by commas. (ex. 1, 2, 3)",
+                "symmetrical, asymmetrical, radial, asymmetrical, radial",
+                "hard"
+            ],
+            [{"$oid":"5def89ac5543af469819884a"},
+                "What type of balance is: (formal) elements are equally distributed on either side of a central vertical axis; one side duplicates or mirrors the other side; which suggests stability.",
+                "Symmetrical",
+                "easy"
+            ]
+        ]
+    },
+    {
+        "_id":{"$oid":"5def8aac5543af469819884b"},
+        "name":"Sheliving books Quiz",
+        "createdAt":{
+            "$timestamp":{"t":1575980142,"i":1}
+        },
+        "difficulty":"very hard",
+        "userId":{"$oid":"5def8aeb5543af469819884d"},
+        "questions":[
+            [{"$oid":"5def8af55543af469819884e"},
+                "If the books in the following list were placed in order, which book would be the last book placed on the shelf? Timmons, C  Easter Island Timons, W  The New Dress Timothy, C  Tiger Eyes Timmons, R  April Rain   Timmermon, S  Casey",
+                "Timothy, C - Tiger Eyes",
+                "medium"
+            ],
+            [{"$oid":"5def8b015543af469819884f"},
+                "Place the following books in the appropriate order. Schaffner, V  Algonquin Cat Schaefer, J  Shane Schaper, E  The Dancing Bear Schaeffer, S  Buffalo Afternoon Schaefer, J  Kean Land",
+                "Kean Land, Shane, Buffalo Afternoon, Algonquin Cat, The Dancing Bear",
+                "hard"
+            ],
+            [{"$oid":"5def8b0b5543af4698198850"},
+                "When shelving a book by MacElvain, you would place the book between",
+                "McCarter and McEvans",
+                "hard"
+            ],
+            [{"$oid":"5def8b175543af4698198851"},
+                "True or False: This is the correct order for the following books. Forester, C  African Queen Forster, L  The Bogeyman Forster, E  Howards End",
+                "True",
+                "medium"
+            ],
+            [{"$oid":"5def8b255543af4698198852"},
+                "If the books in the following list were placed in order, which book would be ranked third? 001.942 001.942072073 001.940975 001.94203",
+                "001.94203",
+                "hard"
+            ],
+            [{"$oid":"5def8c285543af4698198853"},
+                "Place the following books in the appropriate order. 629.10392273 629.042 629.1092 629.1300973",
+                "629.042, 629.10392273, 629.1092, 629.1300973",
+                "hard"
+            ]
+        ]
+    },
+    {
+        "_id":{"$oid":"5def8c945543af4698198854"},
+        "name":"Rap music Quiz",
+        "createdAt":{
+            "$timestamp":{"t":1575980476,"i":1}
+        },
+        "difficulty":"medium",
+        "userId":{"$oid":"5def8cbe5543af4698198855"},
+        "questions":[
+            [{"$oid":"5def8ccb5543af4698198856"},
+                "Wiz Khalifa sings the instant hit 'Black and Yellow'. What year is it from?",
+                "2010",
+                "medium"
+            ],
+            [{"$oid":"5def8cd45543af4698198857"},
+                "TRUE or FALSE??? Neighbors Know My Name came out in 2010?",
+                "True",
+                "medium"
+            ],
+            [{"$oid":"5def8cde5543af4698198858"},
+                "Drake sang which of the smashing hits?",
+                "Find Your Love",
+                "easy"
+            ],
+            [{"$oid":"5def8ce85543af4698198859"},
+                "TRUE or FALSE?? Lil' Wayne can also be known as 'Wheezy'",
+                "True",
+                "medium"
+            ],
+            [{"$oid":"5def8cf15543af469819885a"},
+                "TRUE or FALSE?? Usher sings 'Dynamite'",
+                "False",
+                "easy"
+            ],
+            [{"$oid":"5def8cfd5543af469819885b"},
+                "Snoop Dogg sang 'California Gurls' with Katy Perry in 2010. But which Teen Nick show did he appear on? FUN FACT: he also appeared on Nickelodean's show Big Time Rush and sang 'Boyfriend' in 2011 with them.",
+                "Gigantic",
+                "hard"
+            ]
+        ]
+    },
+    {
+        "_id":{"$oid":"5def8dca5543af469819885c"},
+        "name":"Business Quiz",
+        "createdAt":{
+            "$timestamp":{"t":1575982122,"i":1}
+        },
+        "difficulty":"very hard",
+        "userId":{"$oid":"5def8e295543af469819885d"},
+        "questions":[
+            [{"$oid":"5def8e335543af469819885e"},
+                "A previous customer placed a $134.00 order on my website. Can I count this sale towards my trip points?",
+                "Yes, all personal sales count towards your total points.",
+                "hard"
+            ],
+            [{"$oid":"5def8e3c5543af469819885f"},
+                "Why should I enter all of my customer information when I'm entering the show on-line when it's so much faster to simply copy the shipping info on all?  ",
+                "The name and address that appears on the order blank is important if there’s a back-ordered item.",
+                "hard"
+            ],
+            [{"$oid":"5def8e465543af4698198860"},
+                "What is a \"Direct Appointment\"?",
+                "A Direct Appointment is a new Park Laner who starts at a leader Level.",
+                "hard"
+            ],
+            [{"$oid":"5def8e545543af4698198861"},
+                "Whatis one thing I can do to give my business a bounce? (From Nancy Summer's Meeting at Convention)",
+                "Be Positive and Upbeat!",
+                "hard"
+            ]
+        ]
+    },
+    {
+        "_id":{"$oid":"5def94315543af4698198864"},
+        "name":"Food handler Quiz",
+        "createdAt":{
+            "$timestamp":{"t":1575982390,"i":1}
+        },
+        "difficulty":"very hard",
+        "userId":{"$oid":"5def94625543af4698198865"},
+        "questions":[
+            [{"$oid":"5def946e5543af4698198866"},
+                "Moist, high protein foods on which bacteria can grow most easily are called:",
+                "Potentially hazardous foods",
+                "hard"
+            ],
+            [{"$oid":"5def94775543af4698198867"},
+                "In a HACCP system, what is the key measure of training success?",
+                "On-the-job performance in food safety",
+                "hard"
+            ],
+            [{"$oid":"5def947f5543af4698198868"},
+                "Freezing food at -18 degrees C (0 degrees F) will:",
+                "Stop bacteria from growing",
+                "hard"
+            ],
+            [{"$oid":"5def94875543af4698198869"},
+                "The critical control points are:",
+                "The specific ways the hazards in your recipe can be eliminated, prevented or reduced",
+                "hard"
+            ],
+            [{"$oid":"5def94925543af469819886a"},
+                "The word pathogenic means:",
+                "Disease causing",
+                "hard"
+            ],
+            [{"$oid":"5def950f5543af469819886b"},
+                "A hot potentially hazardous food should be held at:",
+                "60 degrees C (140 degrees F)",
+                "hard"
+            ]
+        ]
+    },
+    {
+        "_id":{"$oid":"5def954a5543af469819886c"},
+        "name":"Food handler Quiz 2",
+        "createdAt":{
+            "$timestamp":{"t":1575982620,"i":1}
+        },
+        "difficulty":"very hard",
+        "userId":{"$oid":"5def956a5543af469819886d"},
+        "questions":[
+            [{"$oid":"5def95755543af469819886e"},
+                "Dirt, broken glass, and staples from packing are classified as:",
+                "Physical hazards",
+                "hard"
+            ],
+            [{"$oid":"5def957f5543af469819886f"},
+                "In a package of fresh fish, a large solid mass of ice on the fish means it was:",
+                "Thawed and refrozen",
+                "hard"
+            ],
+            [{"$oid":"5def95875543af4698198870"},
+                "Modified atmosphere foods (MAP) are foods that:",
+                "Contain less oxygen than other kinds of foods",
+                "hard"
+            ],
+            [{"$oid":"5def958e5543af4698198871"},
+                "Typical viruses are:",
+                "Smaller than bacteria",
+                "hard"
+            ],
+            [{"$oid":"5def95975543af4698198872"},
+                "In the Danger Zone bacteria double in number every:",
+                "20 minutes",
+                "hard"
+            ],
+            [{"$oid":"5def95a05543af4698198873"},
+                "The Food Premises regulation is a:",
+                "Provincial legislation",
+                "hard"
+            ]
+        ]
+    },
+    {
+        "_id":{"$oid":"5def96335543af4698198874"},
+        "name":"Foodie Quiz",
+        "createdAt":{
+            "$timestamp":{"t":1575982925,"i":1}
+        },
+        "difficulty":"hard",
+        "userId":{"$oid":"5def964b5543af4698198875"},
+        "questions":[
+            [{"$oid":"5def96555543af4698198876"},
+                "From which city does deep dish pizza come from?",
+                "Chicago",
+                "medium"
+            ],
+            [{"$oid":"5def96605543af4698198877"},
+                "What type of rice is the most widely available for cooking rice?",
+                "Arborio",
+                "hard"
+            ],
+            [{"$oid":"5def96695543af4698198878"},
+                "From where do tomatoes originate?",
+                "Andes",
+                "hard"
+            ],
+            [{"$oid":"5def96735543af4698198879"},
+                "What is the main ingredient of hollandaise sauce?",
+                "Mayonnaise",
+                "medium"
+            ]
+        ]
+    },
+    {
+        "_id":{"$oid":"5def97675543af469819887c"},
+        "name":"Health and body Quiz",
+        "createdAt":{
+            "$timestamp":{"t":1575983304,"i":1}
+        },
+        "difficulty":"very hard",
+        "userId":{"$oid":"5def978b5543af469819887d"},
+        "questions":[
+            [{"$oid":"5def97955543af469819887e"},
+                "Which food does NOT contain Vitamin D?",
+                "Kale",
+                "hard"
+            ],
+            [{"$oid":"5def979e5543af469819887f"},
+                "...lowers levels of stress hormones and strengthens the immune system.",
+                "Laughter",
+                "medium"
+            ],
+            [{"$oid":"5def97a55543af4698198880"},
+                "Like a fingerprint, every person has a unique...print.",
+                "Tongue",
+                "hard"
+            ],
+            [{"$oid":"5def97ae5543af4698198881"},
+                "The...lobe is the area of the brain that allows humans to hear and understand people speaking.",
+                "Temporal",
+                "hard"
+            ],
+            [{"$oid":"5def97b65543af4698198882"},
+                "Your body uses...(how many) muscles to balance itself while standing still.",
+                "300",
+                "hard"
+            ],
+            [{"$oid":"5def97c15543af4698198883"},
+                "The...nail grows the slowest, while the middle nail grows the fastest.",
+                "Thumb",
+                "hard"
+            ]
+        ]
+    }
+]

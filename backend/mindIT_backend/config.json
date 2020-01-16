@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "wise-brook-252408",
+  "private_key_id": "6bf750607be85f1a470b8b5bfc24bddfb2c69a1f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDfnOkLKCoNMYsn\nPchFnIve0xrWfv5CAU1/9Se3yaB8JcRuLNoTJRKMewRI4G4YDz/Ty29NPQO71lOR\nkdFqmlL9ONv6VDgWVEdiCI/bR7VKUPKQm2+g5wq2OSrOJDLnwyjNEVCyrqSdNwez\nDkzElzqrjm0PkrDPTx6rb+01m9X+LgLCtaYtjMe94vGrbgaJpY2ngtapKBtFc/Zt\ng5nmsBRhIRVYiFbViZwIXsVCU4IN2PX16heEqSbY0hUIABXCt3Vo1SeqUytejXTb\nQigiTQMObdWsYZLZd6BgSQvwWopS+dvNWx9JowXN52JGwmWDiS1kf1ZGqOnYd6HK\n+PE73XWfAgMBAAECggEAUPf9sIMGGwnmA7sM0hv5z6DsNl/8jATxvZQVIij5mgqI\n4oYOHuGNIl4G8qaFZuParkObFUIzIGhekTbWN/4Sb8uPZ8joGDnDMT29bV69R+Ag\nvPjzhjUyvUHc/JDB+AbENuD+sfyn8Z90A8N5S7Qg0+76EaoBqMdS6SvZnlBDv8nW\nuLBV7J1/C/g/Qf8etXI9CNiCenkbyShr53M2A6sJIJJ10a5Iro8u+G5TWzfyxWSR\nWevUJw1rDanAQmSqTkM9E277nStGIhokxfrvYwiXEZsAV+HECxJdLjjpswXN3jU0\nH6X8/d5vB31FYUhw2Ut0qXKYFuvt/xyreiL6YklK2QKBgQD9llbCVOcVFbFok5oi\nngCDv7ot7w1A9kO2uYqo2cKIrszpTx7bC0YY+bcoqBOcMgaKT0AkExxaMlSug267\nYJyyCjv4PTvEUp5qKv15QzyvsMh1xuvBL202sLDWBtHRTO36vd5tEC5SmUiTi0a+\nieHhZich/uwyyNf3zvvR+QvYqQKBgQDhvZAoHg/vNveITY1iaCLy4iFq6x5L81mC\n8z8/ASWnv8ZcsvO7ErMruSyjcQgQ0qStdk+c8r51vi/3aERMjHObnVbxNhMnfdmY\n0Qi0Twk55io3V0EUBvOe8cK0YN0Dslkz2mTJ9YrDHk7UAyzg1qTPi+Ta73n+TwLT\nFSK3pu7hBwKBgDqt2COdu98wJt45EXijMSFLc0x/vYRjt+WHZ6OMyCwSrs3qBgzP\nvge3eP+KbQc+uC63CfOPDId+kAPV3AC16Wx1W80kdjkGmSueCQtPWLKa6LgAMLuC\nOvZlynWsHE8fSw4zc02vadipKZciqlsa0s7ycWm3cHaL7RWlqrW6uFgJAoGBANky\nvE5tRmWjHJ4wCDZD/kR14TNvkBIBzgFaLGNhpip2MdSldi9r+aq7G8ESk3EkS8B+\n0nEveqPtX1eMIhMJHH8A71Nc9ScNRt1rWxWp6jWkSMBAmuQ7IBKxiOZnQKA67Osg\nWdOcBmxgb/Y8K+UVgTQU5RjmTBmtSglxD5tm6fbnAoGBAKdF/gmPZqz/FTXPmclr\nB9cf/SpLR6WoHwqlctWDEYBi26x2iQ2+wvVGgF2JZXUMzjQV0ZpKXcn0yEGNRUUI\npsLRkUcfgNPxnf+mldV24HzfTG8hJb6Mw1wT6gqk5cvfXI2bCjgm7JVz77yWIX8d\np6QvXzE4O0Wh8I4lhQloS2+8\n-----END PRIVATE KEY-----\n",
+  "client_email": "wise-brook-252408@appspot.gserviceaccount.com",
+  "client_id": "111915185611835474010",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wise-brook-252408%40appspot.gserviceaccount.com"
+}

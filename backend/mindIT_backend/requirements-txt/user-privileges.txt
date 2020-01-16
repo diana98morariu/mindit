@@ -1,0 +1,37 @@
+None of the users created have server level privileges.
+
+user with full database admin privileges
+
+GRANT SELECT, INSERT, UPDATE, DELETE, CREATE, DROP, INDEX, ALTER, EXECUTE, CREATE VIEW, SHOW VIEW, CREATE ROUTINE, ALTER ROUTINE, 
+EVENT, TRIGGER ON *.* TO 'user_all'@'gp96xszpzlqupw4k.cbetxkdyhwsb.us-east-1.rds.amazonaws.com' 
+IDENTIFIED BY PASSWORD '*A4B6157319038724E3560894F7F932C8886EBFCF';
+
+
+user with read-only privileges
+
+GRANT SELECT ON *.* TO 'user_read_only'@'gp96xszpzlqupw4k.cbetxkdyhwsb.us-east-1.rds.amazonaws.com' 
+IDENTIFIED BY PASSWORD '*A4B6157319038724E3560894F7F932C8886EBFCF';
+
+
+user with restricted reading privileges
+
+GRANT SELECT ON "payments"."payment_amount" TO 'user_restricted'@'gp96xszpzlqupw4k.cbetxkdyhwsb.us-east-1.rds.amazonaws.com' 
+IDENTIFIED BY PASSWORD '*A4B6157319038724E3560894F7F932C8886EBFCF';
+
+GRANT SELECT ON "questions"."question_content" TO 'user_restricted'@'gp96xszpzlqupw4k.cbetxkdyhwsb.us-east-1.rds.amazonaws.com' 
+IDENTIFIED BY PASSWORD '*A4B6157319038724E3560894F7F932C8886EBFCF';
+
+GRANT SELECT ON "questions"."question_difficulty" TO 'user_restricted'@'gp96xszpzlqupw4k.cbetxkdyhwsb.us-east-1.rds.amazonaws.com' 
+IDENTIFIED BY PASSWORD '*A4B6157319038724E3560894F7F932C8886EBFCF';
+
+GRANT SELECT ON "quizzes"."quiz_name" TO 'user_restricted'@'gp96xszpzlqupw4k.cbetxkdyhwsb.us-east-1.rds.amazonaws.com' 
+IDENTIFIED BY PASSWORD '*A4B6157319038724E3560894F7F932C8886EBFCF';
+
+GRANT SELECT ON "users"."user_first_name" TO 'user_restricted'@'gp96xszpzlqupw4k.cbetxkdyhwsb.us-east-1.rds.amazonaws.com' 
+IDENTIFIED BY PASSWORD '*A4B6157319038724E3560894F7F932C8886EBFCF';
+
+GRANT SELECT ON "users"."user_last_name" TO 'user_restricted'@'gp96xszpzlqupw4k.cbetxkdyhwsb.us-east-1.rds.amazonaws.com' 
+IDENTIFIED BY PASSWORD '*A4B6157319038724E3560894F7F932C8886EBFCF';
+
+GRANT SELECT ON "users"."user_username" TO 'user_restricted'@'gp96xszpzlqupw4k.cbetxkdyhwsb.us-east-1.rds.amazonaws.com' 
+IDENTIFIED BY PASSWORD '*A4B6157319038724E3560894F7F932C8886EBFCF';
